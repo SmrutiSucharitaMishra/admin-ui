@@ -1,0 +1,79 @@
+
+{
+    "status":"ok",
+    "totalResults":37,
+    "articles":[
+     {
+    "source":{"id":null,"name":"KABC-TV"},
+    "author":null,
+    "title":"6 people injured after driver crashes through street carnival in South Los Angeles, police say - KABC-TV",
+    "description":"At least six people were injured after a driver crashed through a street carnival in South Los Angeles Saturday night.",
+    "url":"https://abc7.com/south-los-angeles-carnival-crash-trinity-street/12448378/",
+    "urlToImage":"https://cdn.abcotvs.com/dip/images/12448593_111222-kabc-11pm-SLA-carnival-hit-run-STRINGER-vid.jpg?w=1600",
+    "publishedAt":"2022-11-13T07:30:00Z",
+    "content":"SOUTH LOS ANGELES (KABC) -- At least six people were injured after a driver crashed through a street carnival in South Los Angeles Saturday night.\r\nThe incident was reported at around 8 p.m. in the 3… [+1699 chars]"
+    },
+
+    {"source":{"id":null,
+    "name":"BBC News"},
+    "author":"https://www.facebook.com/bbcnews",
+    "title":"Dallas air show crash: Two World War Two planes collide in mid-air - BBC",
+    "description":"Footage shows the two planes colliding at a commemorative air show near Dallas, killing at least two.",
+    "url":"https://www.bbc.com/news/world-us-canada-63612409",
+    "urlToImage":"https://ichef.bbci.co.uk/news/1024/branded_news/9F4D/production/_127618704_mediaitem127618703.jpg",
+    "publishedAt":"2022-11-13T07:25:01Z",
+    "content":"Media caption, Watch: Two vintage World World II planes collide in mid-air during Dallas air show\r\nTwo vintage World War Two-era planes have collided and crashed at an air show in the US state of Tex… [+2326 chars]"
+    },
+
+    {"source":{"id":null,"name":"YouTube"},
+    "author":null,
+    "title":"Gluesenkamp Perez declared winner over Kent in Washington's 3rd District - KGW News",
+    "description":null,
+    "url":"https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dshh9ZLXV4Gk",
+    "urlToImage":null,
+    "publishedAt":"2022-11-13T07:05:42Z",
+    "content":"Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+
+    {"source":{"id":"abc-news-au",
+    "name":"ABC News (AU)"},
+    "author":null,
+    "title":"Biden reacts to Democrats securing control of the Senate - ABC News",
+    "description":"Joe Biden says the Republican Party needs work out what it stands for, reacting to Democrats holding the Senate on the sidelines of the ASEAN summit.",
+    "url":"https://www.abc.net.au/news/2022-11-13/biden-reacts-to-democrats-securing-control-of-the-senate/101648608",
+    "urlToImage":"https://live-production.wcms.abc-cdn.net.au/38c40864f5b0bd2b884845aa95027eab?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt":"2022-11-13T06:45:12Z",
+    "content":"Joe Biden says the Republican Party needs work out what it stands for, reacting to Democrats holding the Senate on the sidelines of the ASEAN summit."
+    },
+
+    {"source":{"id":null,"name":"YouTube"},
+    "author":null,
+    "title":"Alex Pereira Octagon Interview | UFC 281 - UFC - Ultimate Fighting Championship",
+    "description":"Newly crowned middleweight champion Alex Pereira spoke with Joe Rogan following his shocking fifth-round knockout win over former champ Israel Adesanya at UF...",
+    "url":"https://www.youtube.com/watch?v=DWBaf5U6vQQ",
+    "urlToImage":"https://i.ytimg.com/vi/DWBaf5U6vQQ/maxresdefault.jpg",
+    "publishedAt":"2022-11-13T06:21:30Z",
+    "content":null
+    },
+
+    {"source":{"id":"entertainment-weekly",
+    "name":"Entertainment Weekly"},
+    "author":"Andy Hoglund",
+    "title":"SNL recap: Dave Chappelle hosts 2022 post-election episode | EW.com - Entertainment Weekly News",
+    "description":"He's joined by musical guests Black Star, a.k.a. Yasiin Bey and Talib Kweli.",
+    "url":"https://ew.com/tv/recaps/snl-recap-season-48-episode-6/",
+    "urlToImage":"https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B422%2C156%5D&w=938&h=469&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F11%2F12%2FDave-Chappelle-SNL-111222.jpg",
+    "publishedAt":"2022-11-13T06:19:00Z",
+    "content":"Dave Chappelle. The pride of Silver Spring, Md. As one of the world's biggest comedians, Chappelle has seen many eras — but recent years have proven problematic, even dangerous. You have opinions, I … [+9502 chars]"
+    },
+
+    {"source":{"id":"al-jazeera-english",
+    "name":"Al Jazeera English"},
+    "author":"Al Jazeera",
+    "title":"Killers of ex-Indian PM Rajiv Gandhi released after court order - Al Jazeera English",
+    "description":"Convicts are released citing ‘satisfactory conduct’ in prison and the 30 years they served behind bars.",
+    "url":"https://www.aljazeera.com/news/2022/11/12/killers-of-ex-indian-pm-rajiv-gandhi-walk-free-after-court-order",
+    "urlToImage":"https://www.aljazeera.com/wp-content/uploads/2022/11/000_32ND7GG.jpg?resize=1920%2C1440"
+    }
+  ]
+}
